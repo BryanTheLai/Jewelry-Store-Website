@@ -1,5 +1,5 @@
 # Jewelry Store Website
-## Details
+## Description
 1. Made with HTML, CSS and Javascript Only.
 2. No Bootstrap
 3. 5 Week Project
