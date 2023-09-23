@@ -4,7 +4,7 @@
 2. No Bootstrap
 3. 5 Week Project
 
-## Best Pages
+## Preview
 ### Home Page
 ![alt text](https://github.com/BryanTheLai/Jewelry-Store-Website/blob/main/Images/home.png?raw=true)
 ### Products Page
